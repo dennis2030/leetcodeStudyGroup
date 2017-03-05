@@ -1,0 +1,80 @@
+class Solution(object):
+    def threeSumClosest(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+
+        list_len = len(nums)
+        nums.sort()
+        if list_len == 3:
+        	print nums[0] + nums[1] + nums[2]
+        result_sum = nums[0] + nums[1] + nums[list_len - 1]
+        global_min_diff = abs(result_sum - target)
+
+
+        for i in xrange(list_len - 2):
+        	first_two_sum = nums[i] + nums[i + 1]
+        	i_min_diff_sum = (first_two_sum + nums[list_len - 1])
+        	i_min_diff = abs(i_min_diff_sum - target)
+        	last_k = nums[list_len - 1]
+        	k = list_len - 2
+
+        	while k > i + 1:
+        		if last_k == nums[k]:
+        			k = k - 1
+        			continue
+        		new_sum = (first_two_sum + nums[k])
+        		new_diff = abs(new_sum - target)
+        		if new_diff == 0:
+        			return new_sum
+        		if new_diff <= i_min_diff:
+        			i_min_diff = new_diff
+        			i_min_diff_sum = new_sum
+        			last_k = nums[k]
+        			k = k - 1
+        		else:
+        			k = k + 1
+        			break
+
+        	last_j = nums[i + 1]
+        	for j in xrange(i + 2, k):
+        		if last_j == nums[j]:
+        			continue
+        		first_two_sum = nums[i] + nums[j]
+
+        		j_min_diff_sum = (first_two_sum + nums[k])
+        		j_min_diff = abs(j_min_diff_sum - target)
+        		k = k - 1
+        		while k > j:
+        			if last_k == nums[k]:
+        				k = k - 1
+        				continue
+        			new_sum = (first_two_sum + nums[k])
+        			new_diff = abs(new_sum - target)
+        			if new_diff == 0:
+        				return new_sum
+        			if new_diff <= j_min_diff:
+        				j_min_diff = new_diff
+        				j_min_diff_sum = new_sum
+        				k = k - 1
+        			else:
+        				k = k + 1
+        				break
+        		if j_min_diff < i_min_diff:
+        			i_min_diff = j_min_diff
+        			i_min_diff_sum = j_min_diff_sum
+
+        	if i_min_diff < global_min_diff:
+        		global_min_diff = i_min_diff
+        		result_sum = i_min_diff_sum
+        return result_sum
+
+if __name__ == '__main__':
+	sol = Solution()
+	#nums = [1,2,4,8,16,32,64,128]
+	#target = 82
+	nums = [13,2,0,-14,-20,19,8,-5,-13,-3,20,15,20,5,13,14,-17,-7,12,-6,0,20,-19,-1,-15,-2,8,-2,-9,13,0,-3,-18,-9,-9,-19,17,-14,-19,-4,-16,2,0,9,5,-7,-4,20,18,9,0,12,-1,10,-17,-11,16,-13,-14,-3,0,2,-18,2,8,20,-15,3,-13,-12,-2,-19,11,11,-10,1,1,-10,-2,12,0,17,-19,-7,8,-19,-17,5,-5,-10,8,0,-12,4,19,2,0,12,14,-9,15,7,0,-16,-5,16,-12,0,2,-16,14,18,12,13,5,0,5,6]
+	target = -59
+	print sol.threeSumClosest(nums, target)
