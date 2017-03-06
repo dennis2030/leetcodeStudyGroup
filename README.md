@@ -13,6 +13,8 @@ This is a repository for leetcode study group.
 * 93. Restore IP Addresses \[[link](https://leetcode.com/problems/restore-ip-addresses/)\]
 * 396. Rotate Function \[[link](https://leetcode.com/problems/Rotate-Function/)\]
 * 102. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
+* https://leetcode.com/problems/contiguous-array/?tab=Description
+* https://leetcode.com/problems/insertion-sort-list/?tab=Description
 
 ### You can try it
 * 44. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
