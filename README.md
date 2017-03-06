@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 16. 3Sum Closest \[[link](https://leetcode.com/problems/3sum-closest/)\]
-* 229. Majority Element II \[[link](https://leetcode.com/problems/majority-element-ii/)\]
 * 127. Word Ladder \[[link](https://leetcode.com/problems/word-ladder/)\]
 * 223. Rectangle Area \[[link](https://leetcode.com/problems/Rectangle-Area/)\]
 * 324. Wiggle Sort II \[[link](https://leetcode.com/problems/Wiggle-Sort-II/)\]
@@ -13,8 +11,8 @@ This is a repository for leetcode study group.
 * 93. Restore IP Addresses \[[link](https://leetcode.com/problems/restore-ip-addresses/)\]
 * 396. Rotate Function \[[link](https://leetcode.com/problems/Rotate-Function/)\]
 * 102. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
-* https://leetcode.com/problems/contiguous-array/?tab=Description
-* https://leetcode.com/problems/insertion-sort-list/?tab=Description
+* 525. Contiguous Array  \[[link](https://leetcode.com/problems/contiguous-array/)\]
+* 147. Insertion Sort List  \[[link](https://leetcode.com/problems/insertion-sort-list/)\]
 
 ### You can try it
 * 44. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -24,3 +22,8 @@ This is a repository for leetcode study group.
 ### Week 1
 * 134. Gas Station \[[link](https://leetcode.com/problems/gas-station/)\]
 * 165. Compare Version Numbers \[[link](https://leetcode.com/problems/compare-version-numbers/)\]
+
+
+### Week 2
+* 16. 3Sum Closest \[[link](https://leetcode.com/problems/3sum-closest/)\]
+* 229. Majority Element II \[[link](https://leetcode.com/problems/majority-element-ii/)\]
