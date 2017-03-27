@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 95\. Unique Binary Search Trees II \[[link](https://leetcode.com/problems/unique-binary-search-trees-ii/)\]
-* 19\. Remove Nth Node From End of List \[[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\]
 * 93\. Restore IP Addresses \[[link](https://leetcode.com/problems/restore-ip-addresses/)\]
 * 396\. Rotate Function \[[link](https://leetcode.com/problems/Rotate-Function/)\]
 * 102\. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
@@ -13,6 +11,8 @@ This is a repository for leetcode study group.
 * 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
 * 390\. Elimination Game  \[[link](https://leetcode.com/problems/elimination-game/)\]
 * 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
+* 377\. Combination Sum IV \[[link](https://leetcode.com/problems/combination-sum-iv/)\]
+* 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -34,3 +34,7 @@ This is a repository for leetcode study group.
 ### Week 4
 * 324\. Wiggle Sort II \[[link](https://leetcode.com/problems/Wiggle-Sort-II/)\]
 * 221\. Maximal Square \[[link](https://leetcode.com/problems/Maximal-Square/)\]
+
+### Week 5
+* 95\. Unique Binary Search Trees II \[[link](https://leetcode.com/problems/unique-binary-search-trees-ii/)\]
+* 19\. Remove Nth Node From End of List \[[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\]
