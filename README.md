@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 102\. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
-* 525\. Contiguous Array  \[[link](https://leetcode.com/problems/contiguous-array/)\]
 * 147\. Insertion Sort List  \[[link](https://leetcode.com/problems/insertion-sort-list/)\]
 * 17\. Letter Combinations of a Phone Number  \[[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)\]
 * 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
@@ -13,6 +11,8 @@ This is a repository for leetcode study group.
 * 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
 * 228\. Summary Ranges \[[link](https://leetcode.com/problems/summary-ranges/#/description)\]
 * 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
+* 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
+* 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -42,3 +42,7 @@ This is a repository for leetcode study group.
 ### Week 6
 * 93\. Restore IP Addresses \[[link](https://leetcode.com/problems/restore-ip-addresses/)\]
 * 396\. Rotate Function \[[link](https://leetcode.com/problems/Rotate-Function/)\]
+
+### Week 7
+* 102\. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
+* 525\. Contiguous Array  \[[link](https://leetcode.com/problems/contiguous-array/)\]
