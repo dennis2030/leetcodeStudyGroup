@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 147\. Insertion Sort List  \[[link](https://leetcode.com/problems/insertion-sort-list/)\]
-* 17\. Letter Combinations of a Phone Number  \[[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)\]
 * 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
 * 390\. Elimination Game  \[[link](https://leetcode.com/problems/elimination-game/)\]
 * 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
@@ -13,6 +11,9 @@ This is a repository for leetcode study group.
 * 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
 * 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
+* 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
+* 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -46,3 +47,7 @@ This is a repository for leetcode study group.
 ### Week 7
 * 102\. Binary Tree Level Order Traversal \[[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)\]
 * 525\. Contiguous Array  \[[link](https://leetcode.com/problems/contiguous-array/)\]
+
+### Week 8
+* 147\. Insertion Sort List  \[[link](https://leetcode.com/problems/insertion-sort-list/)\]
+* 17\. Letter Combinations of a Phone Number  \[[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)\]
