@@ -13,6 +13,8 @@ This is a repository for leetcode study group.
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
 * 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
+* https://leetcode.com/problems/gray-code/#/description
+* https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/#/description
 
 
 ### You can try it
