@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
-* 390\. Elimination Game  \[[link](https://leetcode.com/problems/elimination-game/)\]
 * 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
 * 377\. Combination Sum IV \[[link](https://leetcode.com/problems/combination-sum-iv/)\]
 * 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
@@ -13,9 +11,8 @@ This is a repository for leetcode study group.
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
 * 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
-* https://leetcode.com/problems/gray-code/#/description
-* https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/#/description
-
+* 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
+* 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -53,3 +50,7 @@ This is a repository for leetcode study group.
 ### Week 8
 * 147\. Insertion Sort List  \[[link](https://leetcode.com/problems/insertion-sort-list/)\]
 * 17\. Letter Combinations of a Phone Number  \[[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)\]
+
+### Week 9
+* 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
+* 390\. Elimination Game  \[[link](https://leetcode.com/problems/elimination-game/)\]
