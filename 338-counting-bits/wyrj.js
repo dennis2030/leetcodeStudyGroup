@@ -5,7 +5,7 @@
 var countBits = function(num) {
     let bits = [0], delta = 1, n = num;
     while (n > 0) {
-        let limit = Math.max(num + 1, delta >> 1);
+        let limit = Math.min(num + 1, delta << 1);
         for (let i = delta; i < limit; i++) {
             bits[i] = bits[i - delta] + 1;
         }
