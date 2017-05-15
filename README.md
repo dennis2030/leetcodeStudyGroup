@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
-* 377\. Combination Sum IV \[[link](https://leetcode.com/problems/combination-sum-iv/)\]
 * 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
 * 228\. Summary Ranges \[[link](https://leetcode.com/problems/summary-ranges/#/description)\]
 * 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
@@ -13,6 +11,8 @@ This is a repository for leetcode study group.
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
 * 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
 * 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
+* 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
+* 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -54,3 +54,7 @@ This is a repository for leetcode study group.
 ### Week 9
 * 200\. Number of Islands  \[[link](https://leetcode.com/problems/number-of-islands/)\]
 * 390\. Elimination Game  \[[link](https://leetcode.com/problems/elimination-game/)\]
+
+### Week 10
+* 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
+* 377\. Combination Sum IV \[[link](https://leetcode.com/problems/combination-sum-iv/)\]
