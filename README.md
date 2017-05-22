@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
-* 228\. Summary Ranges \[[link](https://leetcode.com/problems/summary-ranges/#/description)\]
 * 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
 * 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
@@ -13,6 +11,8 @@ This is a repository for leetcode study group.
 * 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
 * 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
 * 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
+* 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
+* 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -58,3 +58,7 @@ This is a repository for leetcode study group.
 ### Week 10
 * 207\. Course Schedule  \[[link](https://leetcode.com/problems/course-schedule/)\]
 * 377\. Combination Sum IV \[[link](https://leetcode.com/problems/combination-sum-iv/)\]
+
+### Week 11
+* 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
+* 228\. Summary Ranges \[[link](https://leetcode.com/problems/summary-ranges/#/description)\]
