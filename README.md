@@ -13,6 +13,9 @@ This is a repository for leetcode study group.
 * 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 * 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/#/description
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/#/description
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
