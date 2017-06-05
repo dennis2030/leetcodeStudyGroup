@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
-* 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
 * 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
@@ -13,9 +11,10 @@ This is a repository for leetcode study group.
 * 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 * 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
-https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/#/description
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description
-https://leetcode.com/problems/unique-substrings-in-wraparound-string/#/description
+* 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
+* 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
+* 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -65,3 +64,7 @@ https://leetcode.com/problems/unique-substrings-in-wraparound-string/#/descripti
 ### Week 11
 * 474\. Ones and Zeroes \[[link](https://leetcode.com/problems/ones-and-zeroes/)\]
 * 228\. Summary Ranges \[[link](https://leetcode.com/problems/summary-ranges/#/description)\]
+
+### Week 12
+* 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
+* 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
