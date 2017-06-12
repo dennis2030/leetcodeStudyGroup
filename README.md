@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
-* 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
 * 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
 * 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
@@ -14,7 +12,8 @@ This is a repository for leetcode study group.
 * 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
 * 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
 * 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
-
+* 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
+* 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -68,3 +67,7 @@ This is a repository for leetcode study group.
 ### Week 12
 * 319\. Bulb Switcher \[[link](https://leetcode.com/problems/bulb-switcher/#/description)\]
 * 78\. Subsets \[[link](https://leetcode.com/problems/subsets)\]
+
+### Week 13
+* 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
+* 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
