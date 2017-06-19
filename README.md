@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
-* 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
 * 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
 * 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
 * 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
@@ -73,3 +71,7 @@ This is a repository for leetcode study group.
 ### Week 13
 * 338\. Counting Bits \[[link](https://leetcode.com/problems/counting-bits)\]
 * 142\. Linked List Cycle II \[[link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)\]
+
+### Week 14
+* 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
+* 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
