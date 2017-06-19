@@ -14,6 +14,8 @@ This is a repository for leetcode study group.
 * 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
+* https://leetcode.com/problems/perfect-squares/#/description
+* https://leetcode.com/problems/transpose-file/#/description
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
