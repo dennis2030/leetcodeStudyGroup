@@ -10,10 +10,11 @@ This is a repository for leetcode study group.
 * 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
-* https://leetcode.com/problems/perfect-squares/#/description
-* https://leetcode.com/problems/transpose-file/#/description
-* https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/description
-* https://leetcode.com/problems/super-ugly-number/#/description
+* 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
+* 194\. Transpose File \[[link](https://leetcode.com/problems/transpose-file)\]
+* 114\. Flatten Binary Tree to Linked List Perfect Squares \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
+* 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
