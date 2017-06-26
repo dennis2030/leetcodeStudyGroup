@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
-* 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
 * 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 * 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 * https://leetcode.com/problems/perfect-squares/#/description
 * https://leetcode.com/problems/transpose-file/#/description
+* https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/description
+* https://leetcode.com/problems/super-ugly-number/#/description
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -75,3 +75,7 @@ This is a repository for leetcode study group.
 ### Week 14
 * 365\. Water and Jug Problem \[[link](https://leetcode.com/problems/water-and-jug-problem/#/description)\]
 * 89\. Gray Code \[[link](https://leetcode.com/problems/gray-code/)\]
+
+### Week 15
+* 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
+* 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
