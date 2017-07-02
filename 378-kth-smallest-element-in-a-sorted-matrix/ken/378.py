@@ -6,6 +6,7 @@ class Solution(object):
 		:rtype: int
 		"""
 
+		# 老師，梁哲瑋做弊
 		def mergeList(matrix, k):
 			mergedList = []
 			for row in matrix:
