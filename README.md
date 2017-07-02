@@ -2,7 +2,7 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 836\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
+* 36\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 * 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
 * 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
