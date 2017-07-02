@@ -13,10 +13,6 @@ class Solution(object):
         		elem = board[i][j]
         		if elem != '.':
         			if elem in block_rec[i / 3 * 3 + j / 3] or elem in row_rec[i] or elem in column_rec[j]:
-        				print block_rec
-        				print row_rec
-        				print column_rec
-        				print i,j, elem
         				return False
         			block_rec[i / 3 * 3 + j / 3].add(elem)
         			row_rec[i].add(elem)
