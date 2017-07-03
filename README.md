@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 36\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
-* 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
 * 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
 * 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
@@ -14,7 +12,8 @@ This is a repository for leetcode study group.
 * 194\. Transpose File \[[link](https://leetcode.com/problems/transpose-file)\]
 * 114\. Flatten Binary Tree to Linked List Perfect Squares \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
-
+* 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
+* 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -80,3 +79,7 @@ This is a repository for leetcode study group.
 ### Week 15
 * 331\. Verify Preorder Serialization of a Binary Tree \[[link](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)\]
 * 419\. Battleships in a Board \[[link](https://leetcode.com/problems/battleships-in-a-board)\]
+
+### Week 16
+* 36\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
+* 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
