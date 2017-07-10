@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
-* 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
 * 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
 * 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
+* 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
+* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -83,3 +83,7 @@ This is a repository for leetcode study group.
 ### Week 16
 * 36\. Valid Sudoku \[[link](https://leetcode.com/problems/valid-sudoku)\]
 * 378\. Kth Smallest Element in a Sorted Matrix \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)\]
+
+### Week 17
+* 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
+* 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
