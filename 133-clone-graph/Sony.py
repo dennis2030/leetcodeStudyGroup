@@ -1,70 +1,21 @@
-# Below is the interface for Iterator, which is already defined for you.
-#
-# class Iterator(object):
-#     def __init__(self, nums):
-#         """
-#         Initializes an iterator object to the beginning of a list.
-#         :type nums: List[int]
-#         """
-#
-#     def hasNext(self):
-#         """
-#         Returns true if the iteration has more elements.
-#         :rtype: bool
-#         """
-#
-#     def next(self):
-#         """
-#         Returns the next element in the iteration.
-#         :rtype: int
-#         """
+# Definition for a undirected graph node
+# class UndirectedGraphNode:
+#     def __init__(self, x):
+#         self.label = x
+#         self.neighbors = []
 
-class PeekingIterator(object):
-    def __init__(self, iterator):
-        """
-        Initialize your data structure here.
-        :type iterator: Iterator
-        """
-        self.iterator = iterator
-        self.peek_data = None
-        self.peeked = False
+class Solution:
+    # @param node, a undirected graph node
+    # @return a undirected graph node
+    def cloneGraph(self, node):
+        visited_nodes = dict()
+        def visit_node(node):
+            if node.label in visited_nodes:
+                return visited_nodes[node.label]
+            new_node = UndirectedGraphNode(node.label)
+            visited_nodes[node.label] = new_node
+            new_node.neighbors = [visit_node(neighbor) for neighbor in node.neighbors]
 
-    def peek(self):
-        """
-        Returns the next element in the iteration without advancing the iterator.
-        :rtype: int
-        """
-        if not self.peeked:
-            self.peeked = True
-            self.peek_data = self.iterator.next()
-        return self.peek_data
+            return new_node
 
-    def next(self):
-        """
-        :rtype: int
-        """
-        if self.peeked:
-            self.peeked = False
-            return self.peek_data
-        else:
-            self.peeked = False
-            return self.iterator.next()
-
-    def hasNext(self):
-        """
-        :rtype: bool
-        """
-        if self.peeked:
-            return True
-        else:
-            return self.iterator.hasNext()
-
-# Your PeekingIterator object will be instantiated and called as such:
-# iter = PeekingIterator(Iterator(nums))
-# while iter.hasNext():
-#     val = iter.peek()   # Get the next element but not advance the iterator.
-#     iter.next()         # Should return the same value as [val].
-
-if __name__ == '__main__':
-
-    sol = Solution()
+        return None if not node else visit_node(node)
