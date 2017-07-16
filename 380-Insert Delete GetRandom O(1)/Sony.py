@@ -1,5 +1,5 @@
+from random import randrange
 class RandomizedSet(object):
-    from random import randrange
 
     def __init__(self):
         """
@@ -24,7 +24,8 @@ class RandomizedSet(object):
             self.used_len += 1
         else:
             self.item_arr.append(val)
-            self.real_len = self.used_len += 1
+            self.real_len = self.used_len = self.used_len + 1
+        return True
 
     def remove(self, val):
         """
@@ -36,11 +37,12 @@ class RandomizedSet(object):
             return False
 
         replace_idx = self.item_idx_map.pop(val)
-        if self.used_len > 1:
-            replace_val = item_arr[used_len - 1]
+        if self.used_len - 1 != replace_idx:
+            replace_val = self.item_arr[self.used_len - 1]
             self.item_idx_map[replace_val] = replace_idx
             self.item_arr[replace_idx] = replace_val
         self.used_len -= 1
+        return True
 
     def getRandom(self):
         """
@@ -56,7 +58,6 @@ class RandomizedSet(object):
 # param_1 = obj.insert(val)
 # param_2 = obj.remove(val)
 # param_3 = obj.getRandom()
-
 
 
 if __name__ == '__main__':
