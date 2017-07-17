@@ -6,7 +6,6 @@ This is a repository for leetcode study group.
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 * 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
-* 194\. Transpose File \[[link](https://leetcode.com/problems/transpose-file)\]
 * 114\. Flatten Binary Tree to Linked List Perfect Squares \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
@@ -15,6 +14,7 @@ This is a repository for leetcode study group.
 * 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
 * 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
 * 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
+* 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
