@@ -2,8 +2,7 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
-* 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
+
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 * 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
@@ -13,7 +12,9 @@ This is a repository for leetcode study group.
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
 * 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
-* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
+* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
+* 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
+* 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -87,3 +88,7 @@ This is a repository for leetcode study group.
 ### Week 17
 * 452\. Minimum Number of Arrows to Burst Balloons \[[link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)\]
 * 109\. Convert Sorted List to Binary Search Tree \[[link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)\]
+
+### Week 18
+* 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
+* 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
