@@ -6,7 +6,7 @@ This is a repository for leetcode study group.
 * 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
 * 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 * 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
-* 114\. Flatten Binary Tree to Linked List Perfect Squares \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
+* 114\. Flatten Binary Tree to Linked List \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
