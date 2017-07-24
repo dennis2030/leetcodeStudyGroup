@@ -3,8 +3,6 @@ This is a repository for leetcode study group.
 
 ### Problem Pool
 
-* 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
-* 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
 * 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
 * 114\. Flatten Binary Tree to Linked List \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
@@ -15,6 +13,8 @@ This is a repository for leetcode study group.
 * 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
 * 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
 * 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
+* https://leetcode.com/problems/validate-ip-address/#/description
+* https://leetcode.com/problems/beautiful-arrangement/#/description
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -92,3 +92,7 @@ This is a repository for leetcode study group.
 ### Week 18
 * 236\. Lowest Common Ancestor of a Binary Tree \[[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)\]
 * 467\. Unique Substrings in Wraparound String \[[link](https://leetcode.com/problems/unique-substrings-in-wraparound-string)\]
+
+### Week 19
+* 133\. Clone Graph \[[link](https://leetcode.com/problems/clone-graph)\]
+* 284\. Peeking Iterator \[[link](https://leetcode.com/problems/peeking-iterator)\]
