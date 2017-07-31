@@ -6,12 +6,12 @@ This is a repository for leetcode study group.
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
 * 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
-* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
-* 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
+* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
+* 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
 * 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
 * 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
-* https://leetcode.com/problems/validate-ip-address/#/description
-* https://leetcode.com/problems/beautiful-arrangement/#/description
+* 468\. Validate IP Address \[[link](https://leetcode.com/problems/validate-ip-address)\]
+* 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
 * 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
 
