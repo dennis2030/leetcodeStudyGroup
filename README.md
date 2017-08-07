@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
-* 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
 * 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
 * 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
 * 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
+* 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
+* 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -99,3 +99,7 @@ This is a repository for leetcode study group.
 ### Week 20
 * 279\. Perfect Squares \[[link](https://leetcode.com/problems/perfect-squares)\]
 * 114\. Flatten Binary Tree to Linked List \[[link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)\]
+
+### Week 21
+* 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
+* 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
