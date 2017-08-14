@@ -14,6 +14,8 @@ This is a repository for leetcode study group.
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
 * 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
+https://leetcode.com/problems/triangle/description/
+https://leetcode.com/problems/random-pick-index/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
