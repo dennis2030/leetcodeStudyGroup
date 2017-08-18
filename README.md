@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
-* 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
 * 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
 * 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
 * 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
@@ -14,8 +12,8 @@ This is a repository for leetcode study group.
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
 * 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
-https://leetcode.com/problems/triangle/description/
-https://leetcode.com/problems/random-pick-index/description/
+* 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
+* 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -105,3 +103,7 @@ https://leetcode.com/problems/random-pick-index/description/
 ### Week 21
 * 313\. Super Ugly Number \[[link](https://leetcode.com/problems/super-ugly-number)\]
 * 98\. Validate Binary Search Tree \[[link](https://leetcode.com/problems/validate-binary-search-tree)\]
+
+### Week 22
+* 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
+* 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
