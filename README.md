@@ -14,6 +14,10 @@ This is a repository for leetcode study group.
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
 * 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
+* https://leetcode.com/problems/utf-8-validation/description/
+* https://leetcode.com/problems/longest-absolute-file-path/description/
+* https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+* https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
