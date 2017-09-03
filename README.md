@@ -2,10 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
-* 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
-* 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
-* 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
 * 468\. Validate IP Address \[[link](https://leetcode.com/problems/validate-ip-address)\]
 * 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
 * 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
@@ -14,10 +10,10 @@ This is a repository for leetcode study group.
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
 * 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
-* https://leetcode.com/problems/utf-8-validation/description/
-* https://leetcode.com/problems/longest-absolute-file-path/description/
-* https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
-* https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+* 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation/description/)\]
+* 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path/description/)\]
+* 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)\]
+* 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -111,3 +107,11 @@ This is a repository for leetcode study group.
 ### Week 22
 * 380\. Insert Delete GetRandom O(1) \[[link](https://leetcode.com/problems/insert-delete-getrandom-o1)\]
 * 592\. Fraction Addition and Subtraction \[[link](https://leetcode.com/problems/fraction-addition-and-subtraction)\]
+
+### Week 23
+* 357\. Count Numbers with Unique Digits \[[link](https://leetcode.com/problems/count-numbers-with-unique-digits)\]
+* 187\. Repeated DNA Sequences \[[link](https://leetcode.com/problems/repeated-dna-sequences)\]
+
+### Week 24
+* 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
+* 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
