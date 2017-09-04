@@ -14,6 +14,8 @@ This is a repository for leetcode study group.
 * 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path/description/)\]
 * 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)\]
 * 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)\]
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+https://leetcode.com/problems/path-sum-ii/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
