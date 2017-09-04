@@ -2,20 +2,19 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 468\. Validate IP Address \[[link](https://leetcode.com/problems/validate-ip-address)\]
-* 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
 * 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
 * 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
 * 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
-* 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation/description/)\]
-* 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path/description/)\]
-* 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)\]
-* 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)\]
-https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
-https://leetcode.com/problems/path-sum-ii/description/
+* 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
+* 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path)\]
+* 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
+* 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
+* 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
+* 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -117,3 +116,7 @@ https://leetcode.com/problems/path-sum-ii/description/
 ### Week 24
 * 299\. Bulls and Cows \[[link](https://leetcode.com/problems/bulls-and-cows)\]
 * 513\. Find Bottom Left Tree Value \[[link](https://leetcode.com/problems/find-bottom-left-tree-value)\]
+
+### Week 25
+* 468\. Validate IP Address \[[link](https://leetcode.com/problems/validate-ip-address)\]
+* 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
