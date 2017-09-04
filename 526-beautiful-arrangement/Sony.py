@@ -14,11 +14,8 @@ class Solution(object):
             else:
                 i = 0
                 while i < len(remaining_num):
-                    if remaining_num[i] not in candidates[index]:
-                        i += 1
-                        continue
-                    used_num = remaining_num
-                    total = assignBeauty(candidates, total, index + 1, remaining_num[:i] + remaining_num[i + 1:])
+                    if remaining_num[i] in candidates[index]:
+                        total = assignBeauty(candidates, total, index + 1, remaining_num[:i] + remaining_num[i + 1:])
                     i += 1
             return total
 
@@ -28,7 +25,6 @@ class Solution(object):
             for j in xrange(i * 2, N + 1, i):
                 candidates[i].append(j)
                 candidates[j].append(i)
-        #print candidates
 
         return assignBeauty(candidates, 0, 1, [i for i in xrange(1, N + 1)])
 
