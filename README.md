@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
-* 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
 * 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
@@ -14,7 +12,8 @@ This is a repository for leetcode study group.
 * 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
 * 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
 * 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
-
+* 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
+* 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -120,3 +119,7 @@ This is a repository for leetcode study group.
 ### Week 25
 * 468\. Validate IP Address \[[link](https://leetcode.com/problems/validate-ip-address)\]
 * 526\. Beautiful Arrangement \[[link](https://leetcode.com/problems/beautiful-arrangement)\]
+
+### Week 26
+* 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
+* 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
