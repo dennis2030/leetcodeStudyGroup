@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
-* 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
 * 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
 * 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
 * 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
 * 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
+https://leetcode.com/problems/minesweeper/description/
+https://leetcode.com/problems/permutations/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -123,3 +123,7 @@ This is a repository for leetcode study group.
 ### Week 26
 * 406\. Queue Reconstruction by Height \[[link](https://leetcode.com/problems/queue-reconstruction-by-height)\]
 * 395\. Longest Substring with At Least K Repeating Characters \[[link](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)\]
+
+### Week 27
+* 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
+* 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
