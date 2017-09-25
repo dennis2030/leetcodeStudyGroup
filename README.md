@@ -10,8 +10,8 @@ This is a repository for leetcode study group.
 * 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
 * 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
 * 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
-https://leetcode.com/problems/minesweeper/description/
-https://leetcode.com/problems/permutations/description/
+* 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
+* 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
 * 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 
