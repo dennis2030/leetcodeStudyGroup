@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
-* 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
 * 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
 * 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path)\]
 * 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
 https://leetcode.com/problems/minesweeper/description/
 https://leetcode.com/problems/permutations/description/
+* 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
+* 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -127,3 +127,7 @@ https://leetcode.com/problems/permutations/description/
 ### Week 27
 * 287\. Find the Duplicate Number \[[link](https://leetcode.com/problems/find-the-duplicate-number)\]
 * 435\. Non-overlapping Intervals \[[link](https://leetcode.com/problems/non-overlapping-intervals)\]
+
+### Week 28
+* 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
+* 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
