@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
-* 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path)\]
 * 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
 * 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
 * 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
 * 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
+* 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
+* 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -131,3 +131,7 @@ This is a repository for leetcode study group.
 ### Week 28
 * 120\. Triangle \[[link](https://leetcode.com/problems/triangle)\]
 * 398\. Random Pick Index \[[link](https://leetcode.com/problems/random-pick-index)\]
+
+### Week 29
+* 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
+* 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path)\]
