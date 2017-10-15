@@ -12,15 +12,18 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: TreeNode
         """
-        if len(inorder) == 0:
-            return None
 
-        root = TreeNode(preorder[0])
-        idx = inorder.index(preorder[0])
-        print idx
-        root.left = self.buildTree(preorder[1:idx + 1], inorder[0:idx])
-        root.right = self.buildTree(preorder[idx + 1:], inorder[idx + 1:])
-        return root
+        def _buildTree(preorder_start, inorder_start, tree_size):
+            if tree_size == 0:
+                return None
+            print preorder_start, inorder_start, tree_size
+            root = TreeNode(preorder[preorder_start])
+            idx = inorder.index(preorder[preorder_start])
+            left_tree_size = idx - inorder_start
+            root.left = _buildTree(preorder_start + 1, inorder_start, left_tree_size)
+            root.right = _buildTree(preorder_start + 1 + left_tree_size, idx + 1, tree_size - left_tree_size - 1)
+            return root
+        return _buildTree(0, 0, len(preorder))
 
 if __name__ == '__main__':
 
