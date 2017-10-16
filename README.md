@@ -14,6 +14,8 @@ This is a repository for leetcode study group.
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 * 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/
+https://leetcode.com/problems/design-twitter/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
