@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
-* 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
 * 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
 * 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
 * 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
@@ -14,8 +12,9 @@ This is a repository for leetcode study group.
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 * 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
-https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/
-https://leetcode.com/problems/design-twitter/description/
+* 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
+* 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -137,3 +136,7 @@ https://leetcode.com/problems/design-twitter/description/
 ### Week 29
 * 393\. UTF-8 Validation \[[link](https://leetcode.com/problems/utf-8-validation)\]
 * 388\. Longest Absolute File Path \[[link](https://leetcode.com/problems/longest-absolute-file-path)\]
+
+### Week 30
+* 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
+* 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
