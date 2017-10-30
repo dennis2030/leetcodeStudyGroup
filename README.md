@@ -14,6 +14,8 @@ This is a repository for leetcode study group.
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
+* 131\. https://leetcode.com/problems/palindrome-partitioning/description/
+* 413\. https://leetcode.com/problems/arithmetic-slices/description/
 
 
 ### You can try it
