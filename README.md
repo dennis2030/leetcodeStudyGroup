@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
-* 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
 * 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
 * 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
 * 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
@@ -14,8 +12,8 @@ This is a repository for leetcode study group.
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
-* 131\. https://leetcode.com/problems/palindrome-partitioning/description/
-* 413\. https://leetcode.com/problems/arithmetic-slices/description/
+* 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning/description)\]
+* 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices/description/)\]
 
 
 ### You can try it
@@ -142,3 +140,7 @@ This is a repository for leetcode study group.
 ### Week 30
 * 150\. Evaluate Reverse Polish Notation \[[link](https://leetcode.com/problems/evaluate-reverse-polish-notation)\]
 * 230\. Kth Smallest Element in a BST \[[link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)\]
+
+### Week 31
+* 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
+* 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
