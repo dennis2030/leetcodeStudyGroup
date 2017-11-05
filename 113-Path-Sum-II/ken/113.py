@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution(object):
-    def pathSum(self, root, sum):
+    def pathSum(self, root, target):
         """
         :type root: TreeNode
         :type sum: int
@@ -16,16 +16,20 @@ class Solution(object):
         current = []
 
         def rec(root):
+            if root is None:
+                return
+
             current.append(root.val)
 
             if root.left is None and root.right is None:
-                if sum(current) == sum:
+                if sum(current) == target:
                     ans.append(list(current))
-            elif root.left:
-                rec(root.left)
-            elif root.right:
-                rec(root.right)
+
+            rec(root.left)
+            rec(root.right)
 
             current.pop()
+
+        rec(root)
 
         return ans
