@@ -15,7 +15,7 @@ This is a repository for leetcode study group.
 * 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning/description)\]
 * 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices/description/)\]
 * 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number/description/)\]
-* 174\. Dungeon Game \[[link](https://leetcode.com/problems/dungeon-game/description/)\]
+* 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
