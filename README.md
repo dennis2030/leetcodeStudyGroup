@@ -14,7 +14,8 @@ This is a repository for leetcode study group.
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
 * 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning/description)\]
 * 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices/description/)\]
-
+* 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number/description/)\]
+* 174\. Dungeon Game \[[link](https://leetcode.com/problems/dungeon-game/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
