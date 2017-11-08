@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
-* 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
 * 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
 * 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
 * 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
@@ -145,3 +143,7 @@ This is a repository for leetcode study group.
 ### Week 31
 * 105\. Construct Binary Tree from Preorder and Inorder Traversal \[[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)\]
 * 113\. Path Sum II \[[link](https://leetcode.com/problems/path-sum-ii)\]
+
+### Week 32
+* 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
+* 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
