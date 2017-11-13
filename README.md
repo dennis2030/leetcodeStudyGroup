@@ -2,18 +2,18 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
-* 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
 * 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 * 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
-* 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning/description)\]
-* 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices/description/)\]
-* 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number/description/)\]
-* 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways/description/)\]
+* 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning)\]
+* 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices)\]
+* 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number)\]
+* 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways)\]
+* 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree)\]
+* 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -147,3 +147,7 @@ This is a repository for leetcode study group.
 ### Week 32
 * 454\. 4Sum II \[[link](https://leetcode.com/problems/4sum-ii/)\]
 * 554\. Brick Wall \[[link](https://leetcode.com/problems/brick-wall/description/)\]
+
+### Week 33
+* 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
+* 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
