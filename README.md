@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
-* 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
 * 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways)\]
 * 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree)\]
 * 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
+* 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/description/)\]
+* 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -151,3 +151,7 @@ This is a repository for leetcode study group.
 ### Week 33
 * 529\. Minesweeper \[[link](https://leetcode.com/problems/minesweeper/description/)\]
 * 46\. Permutations \[[link](https://leetcode.com/problems/permutations/description/)\]
+
+### Week 34
+* 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
+* 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
