@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
-* 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
 * 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning)\]
@@ -14,6 +12,8 @@ This is a repository for leetcode study group.
 * 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
 * 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/description/)\]
 * 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/description/)\]
+* 737\. Sentence Similarity II \[[link](https://leetcode.com/problems/sentence-similarity-ii/)\]
+* 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -155,3 +155,7 @@ This is a repository for leetcode study group.
 ### Week 34
 * 667\. Beautiful Arrangement II \[[link](https://leetcode.com/problems/beautiful-arrangement-ii)\]
 * 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words)\]
+
+### Week 35
+* 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
+* 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
