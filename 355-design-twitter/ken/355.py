@@ -61,6 +61,6 @@ class Twitter(object):
         :rtype: void
         """
 
-        if followerId not in self.follows or followeeId not in self.follows[followerId]:
+        if followerId not in self.follows:
             return
-        self.follows[followerId].remove(followeeId)
+        self.follows[followerId].discard(followeeId)
