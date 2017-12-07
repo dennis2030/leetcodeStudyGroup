@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
-* 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
 * 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning)\]
 * 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices)\]
 * 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number)\]
@@ -159,3 +157,7 @@ This is a repository for leetcode study group.
 ### Week 35
 * 433\. Minimum Genetic Mutation \[[link](https://leetcode.com/problems/minimum-genetic-mutation)\]
 * 274\. H-Index \[[link](https://leetcode.com/problems/h-index)\]
+
+### Week 36
+* 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
+* 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
