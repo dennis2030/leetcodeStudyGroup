@@ -12,6 +12,10 @@ This is a repository for leetcode study group.
 * 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/description/)\]
 * 737\. Sentence Similarity II \[[link](https://leetcode.com/problems/sentence-similarity-ii/)\]
 * 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
+* 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
+* 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
+* 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
+
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
