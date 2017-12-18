@@ -2,10 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning)\]
-* 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices)\]
-* 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number)\]
-* 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways)\]
 * 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree)\]
 * 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
 * 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/description/)\]
@@ -15,6 +11,9 @@ This is a repository for leetcode study group.
 * 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
 * 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
 * 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
+* [link](https://leetcode.com/problems/course-schedule-ii/description/)
+* [link](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
+* [link](https://leetcode.com/problems/is-subsequence/description/)
 
 
 ### You can try it
@@ -165,3 +164,11 @@ This is a repository for leetcode study group.
 ### Week 36
 * 421\. Maximum XOR of Two Numbers in an Array \[[link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)\]
 * 355\. Design Twitter \[[link](https://leetcode.com/problems/design-twitter)\]
+
+### Week 37
+* 131\. Palindrome Partitioning \[[link](https://leetcode.com/problems/palindrome-partitioning)\]
+* 413\. Arithmetic Slices \[[link](https://leetcode.com/problems/arithmetic-slices)\]
+
+### Week 38
+* 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number)\]
+* 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways)\]
