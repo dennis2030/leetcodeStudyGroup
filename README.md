@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree/)\]
-* 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
 * 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/)\]
 * 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/)\]
 * 737\. Sentence Similarity II \[[link](https://leetcode.com/problems/sentence-similarity-ii/)\]
@@ -175,3 +173,7 @@ This is a repository for leetcode study group.
 ### Week 38
 * 263\. Ugly Number \[[link](https://leetcode.com/problems/ugly-number/)\]
 * 91\. Decode Ways \[[link](https://leetcode.com/problems/decode-ways/)\]
+
+### Week 39
+* 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree/)\]
+* 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
