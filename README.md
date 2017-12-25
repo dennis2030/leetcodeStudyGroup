@@ -14,7 +14,8 @@ This is a repository for leetcode study group.
 * 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
 * 241\. Different Ways to Add Parentheses \[[link](https://leetcode.com/problems/different-ways-to-add-parentheses/)\]
 * 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
-
+https://leetcode.com/problems/additive-number/description/
+https://leetcode.com/problems/ugly-number-ii/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
