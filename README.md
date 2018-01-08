@@ -11,7 +11,7 @@ This is a repository for leetcode study group.
 * 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
 * 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
 * 264\. Ugly Number II \[[link](https://leetcode.com/problems/ugly-number-ii/)\]
-* 328\. Odd Even Linked List \[link](https://leetcode.com/problems/odd-even-linked-list/description/)\]
+* 328\. Odd Even Linked List \[[link](https://leetcode.com/problems/odd-even-linked-list/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
