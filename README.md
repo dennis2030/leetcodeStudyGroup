@@ -2,9 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/)\]
-* 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/)\]
-* 737\. Sentence Similarity II \[[link](https://leetcode.com/problems/sentence-similarity-ii/)\]
 * 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
 * 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
 * 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
@@ -14,8 +11,7 @@ This is a repository for leetcode study group.
 * 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
 * 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
 * 264\. Ugly Number II \[[link](https://leetcode.com/problems/ugly-number-ii/)\]
-
-
+* 328. Odd Even Linked List \[link](https://leetcode.com/problems/odd-even-linked-list/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -177,3 +173,7 @@ This is a repository for leetcode study group.
 ### Week 39
 * 208\. Implement Trie (Prefix Tree) \[[link](https://leetcode.com/problems/implement-trie-prefix-tree/)\]
 * 621\. Task Scheduler \[[link](https://leetcode.com/problems/task-scheduler/)\]
+
+### Week 40
+* 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/)\]
+* 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/)\]
