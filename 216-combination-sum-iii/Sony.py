@@ -1,4 +1,4 @@
-#vary slow, should refine it
+# vary slow, should refine it
 class Solution(object):
     def combinationSum3(self, k, n):
         """
