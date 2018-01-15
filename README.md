@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
-* 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
 * 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
 * 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
 * 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
@@ -12,6 +10,8 @@ This is a repository for leetcode study group.
 * 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
 * 264\. Ugly Number II \[[link](https://leetcode.com/problems/ugly-number-ii/)\]
 * 328\. Odd Even Linked List \[[link](https://leetcode.com/problems/odd-even-linked-list/description/)\]
+* https://leetcode.com/problems/valid-triangle-number/description/
+* https://leetcode.com/problems/maximum-width-of-binary-tree/description/
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -177,3 +177,7 @@ This is a repository for leetcode study group.
 ### Week 40
 * 39\. Combination Sum \[[link](https://leetcode.com/problems/combination-sum/)\]
 * 495\. Teemo Attacking \[[link](https://leetcode.com/problems/teemo-attacking/)\]
+
+### Week 41
+* 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
+* 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
