@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
-* 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
 * 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
 * 241\. Different Ways to Add Parentheses \[[link](https://leetcode.com/problems/different-ways-to-add-parentheses/)\]
 * 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
@@ -12,6 +10,8 @@ This is a repository for leetcode study group.
 * 328\. Odd Even Linked List \[[link](https://leetcode.com/problems/odd-even-linked-list/)\]
 * 611\. Valid Triangle Number \[[link](https://leetcode.com/problems/valid-triangle-number/)\]
 * 662\. Maximum Width of Binary Tree \[[link](https://leetcode.com/problems/maximum-width-of-binary-tree/)\] 
+* 394\. Decode String \[[link](https://leetcode.com/problems/decode-string/)\]
+* 655\. Print Binary Tree \[[link](https://leetcode.com/problems/print-binary-tree/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -181,3 +181,7 @@ This is a repository for leetcode study group.
 ### Week 41
 * 216\. Combination Sum III \[[link](https://leetcode.com/problems/combination-sum-iii/)\]
 * 54\. Spiral Matrix \[[link](https://leetcode.com/problems/spiral-matrix/)\]
+
+### Week 42
+* 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
+* 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
