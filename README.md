@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
-* 241\. Different Ways to Add Parentheses \[[link](https://leetcode.com/problems/different-ways-to-add-parentheses/)\]
 * 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
 * 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
 * 264\. Ugly Number II \[[link](https://leetcode.com/problems/ugly-number-ii/)\]
@@ -12,6 +10,8 @@ This is a repository for leetcode study group.
 * 662\. Maximum Width of Binary Tree \[[link](https://leetcode.com/problems/maximum-width-of-binary-tree/)\] 
 * 394\. Decode String \[[link](https://leetcode.com/problems/decode-string/)\]
 * 655\. Print Binary Tree \[[link](https://leetcode.com/problems/print-binary-tree/)\]
+* 498\. Diagonal Traverse \[[link](https://leetcode.com/problems/diagonal-traverse/)\]
+* 537\. Complex Number Multiplication \[[link](https://leetcode.com/problems/complex-number-multiplication/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
@@ -185,3 +185,7 @@ This is a repository for leetcode study group.
 ### Week 42
 * 86\. Partition List \[[link](https://leetcode.com/problems/partition-list/)\]
 * 240\. Search a 2D Matrix II \[[link](https://leetcode.com/problems/search-a-2d-matrix-ii/)\]
+
+### Week 43
+* 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
+* 241\. Different Ways to Add Parentheses \[[link](https://leetcode.com/problems/different-ways-to-add-parentheses/)\]
