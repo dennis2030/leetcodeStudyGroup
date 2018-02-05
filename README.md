@@ -12,6 +12,8 @@ This is a repository for leetcode study group.
 * 655\. Print Binary Tree \[[link](https://leetcode.com/problems/print-binary-tree/)\]
 * 498\. Diagonal Traverse \[[link](https://leetcode.com/problems/diagonal-traverse/)\]
 * 537\. Complex Number Multiplication \[[link](https://leetcode.com/problems/complex-number-multiplication/)\]
+* 260\. Single Number III \[[link](https://leetcode.com/problems/single-number-iii/description/)\]
+* 310\. Minimum Height Trees \[[link](https://leetcode.com/problems/minimum-height-trees/description/)\]
 
 ### You can try it
 * 44\. Wildcard Matching \[[link](https://leetcode.com/problems/wildcard-matching/)\]
