@@ -2,8 +2,6 @@
 This is a repository for leetcode study group.
 
 ### Problem Pool
-* 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
-* 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
 * 264\. Ugly Number II \[[link](https://leetcode.com/problems/ugly-number-ii/)\]
 * 328\. Odd Even Linked List \[[link](https://leetcode.com/problems/odd-even-linked-list/)\]
 * 611\. Valid Triangle Number \[[link](https://leetcode.com/problems/valid-triangle-number/)\]
@@ -191,3 +189,7 @@ This is a repository for leetcode study group.
 ### Week 43
 * 210\. Course Schedule II \[[link](https://leetcode.com/problems/course-schedule-ii/)\]
 * 241\. Different Ways to Add Parentheses \[[link](https://leetcode.com/problems/different-ways-to-add-parentheses/)\]
+
+### Week 44
+* 392\. Is Subsequence \[[link](https://leetcode.com/problems/is-subsequence/)\]
+* 306\. Additive Number \[[link](https://leetcode.com/problems/additive-number/)\]
